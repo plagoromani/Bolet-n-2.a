@@ -12,6 +12,6 @@ public class Bol21 {
                 area = base*altura/2 ;//Poño un f por ser de tipo float, senón o pon en double, tamén se pode facer un cast, valor=(tipo)expresión
      System.out.println("area = "+ area);
     }
-    
+    //Pirolas para todos
     //Hola Manu
 }
